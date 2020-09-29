@@ -7,6 +7,7 @@ public class MyExampleTask {
         System.out.println(e + i++);
         System.out.println("Simple text"+ " " + e + " " + i);
         System.out.println("Say Hi");
+        System.out.println("No money no honey");
 
     }
 }
