@@ -8,7 +8,7 @@ public class MyExampleTask {
         int i = 9;
 
         System.out.println(e + i++);
-        System.out.println("Simple text"+ " " + e + " " + i);
+        System.out.println("Simple text" + " " + e + " " + i);
         System.out.println("Say Hi");
         System.out.println("Say something");
 
@@ -17,6 +17,9 @@ public class MyExampleTask {
         list.add(i--);
         list.add(i-- * i++);
         System.out.println(list);
+        if (i <= 5) {
+            System.out.println("Wrong list");
+        } else System.out.println("Correct list");
 
     }
 }
