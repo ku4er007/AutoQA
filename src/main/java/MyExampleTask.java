@@ -1,7 +1,11 @@
 public class MyExampleTask {
     public static void main(String[] args) {
-        String e = "Task2";
+        String e = "JavA Hillel";
         System.out.println(e);
-        System.out.println(e + 1);
+        int i = 2;
+
+        System.out.println(e + i++);
+        System.out.println("Simple text"+ " " + e + " " + i);
+
     }
 }
