@@ -5,5 +5,8 @@ public class MyExample2Task {
         int c = 58;
         int z = a * b / c;
         System.out.println(z);
+        int y = 93;
+        System.out.println(z*y);
+
     }
 }
