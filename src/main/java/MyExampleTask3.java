@@ -10,7 +10,7 @@ public class MyExampleTask3 {
     }
 
     public static void main(String[] args) {
-        int maxNum = 16;
+        int maxNum = 4;
         System.out.println("Fibonacci Series of " + maxNum + " numbers: ");
         for (int i = 0; i < maxNum; i++) {
             System.out.print(fibanacciRec(i) + " ");
