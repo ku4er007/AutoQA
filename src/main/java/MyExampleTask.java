@@ -33,5 +33,8 @@ public class MyExampleTask {
         System.out.println("God of War 33333");
         String f = "God of War 20";
         System.out.println(f);
+        int r;
+        double ui;
+        String test;
     }
 }
