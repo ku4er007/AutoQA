@@ -14,7 +14,7 @@ public class MyExampleTask {
         System.out.println("I love GTA 5 text text text ...");
         System.out.println("Wait GTA 6");
         System.out.println("Simple text" + " " + e + " " + i);
-        System.out.println("Say Hi");
+        System.out.println("Say Hiiii");
         System.out.println("Say something");
 
         List<Integer> list = new ArrayList<Integer>();
