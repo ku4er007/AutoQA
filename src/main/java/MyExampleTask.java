@@ -34,7 +34,9 @@ public class MyExampleTask {
         String f = "God of War 20";
         System.out.println(f);
         int r;
+        double uit;
         double ui;
         String test;
+        uit = 89.54;
     }
 }
