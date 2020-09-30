@@ -27,7 +27,7 @@ public class MyExampleTask {
         } else System.out.println("Correct list");
 
         //Add some comment
-        System.out.println("Metro 2033 and Last light");
+        System.out.println("Metro 2033 and Last light 2");
         System.out.println("God of War");
         System.out.println("God of War 2");
         System.out.println("God of War 33333");
