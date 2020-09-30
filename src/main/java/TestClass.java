@@ -6,5 +6,6 @@ public class TestClass {
 
         String t = "Vasy11548941";
         System.out.println(t);
+        System.out.println(t + 1);
     }
 }
