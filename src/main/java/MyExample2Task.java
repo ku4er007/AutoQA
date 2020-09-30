@@ -7,8 +7,14 @@ public class MyExample2Task {
         System.out.println(z);
         int y = 93;
         System.out.println(z * y);
-        System.out.println("My Age is: " + ((z * y) - 630));
+        System.out.println("My Age wrong is: " + ((z * y) - 630));
         System.out.println("New Changes" + 2);
+        System.out.println("New Changes" + 2);
+        System.out.println("New some Changes" + 223);
+        System.out.println("New Changes" + 21);
+        System.out.println("New Changes" + 22);
+        System.out.println("New Changes text " + 24);
+
 
 
     }
