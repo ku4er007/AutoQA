@@ -9,6 +9,6 @@ public class MyExampleTask {
         System.out.println("Say Hi");
         System.out.println("No money no honey");
         System.out.println("I love GTA 5 text text text ...");
-
+        System.out.println("Wait GTA 6");
     }
 }
