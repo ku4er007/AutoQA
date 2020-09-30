@@ -34,10 +34,15 @@ public class MyExampleTask {
         String f = "God of War 20";
         System.out.println(f);
         int r;
+        double uitq;
         double ui;
         String test;
-        double test2;
-        test2 =56;
+        double test3;
+        test3 =56;
         String qwe = "rty";
+        uitq = 89.54;
+        String test2;
+        test2 = "example text";
+
     }
 }
