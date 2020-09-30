@@ -43,6 +43,10 @@ public class MyExampleTask {
         uitq = 89.54;
         String test2;
         test2 = "example text";
+        int o;
+        int v;
+        Integer x;
+        Integer m;
 
     }
 }
