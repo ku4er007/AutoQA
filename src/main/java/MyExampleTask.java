@@ -36,5 +36,8 @@ public class MyExampleTask {
         int r;
         double ui;
         String test;
+        double test2;
+        test2 =56;
+        String qwe = "rty";
     }
 }
