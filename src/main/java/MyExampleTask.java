@@ -27,6 +27,6 @@ public class MyExampleTask {
         } else System.out.println("Correct list");
 
         //Add some comment
-        System.out.println("Metro 2033");
+        System.out.println("Metro 2033 and Last light");
     }
 }
